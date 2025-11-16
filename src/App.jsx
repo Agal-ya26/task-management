@@ -1,8 +1,8 @@
-import { Routes, Route, Link } from "react-router-dom";
-import Home from "./pages/Home";
-import CreateTask from "./pages/CreateTask";
-import EditTask from "./pages/EditTask";
+
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home.jsx";
+import CreateTask from "./pages/CreateTask.jsx";
+import EditTask from "./pages/EditTask.jsx";
 
 export default function App() {
   return (
