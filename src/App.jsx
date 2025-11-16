@@ -2,6 +2,7 @@ import { Routes, Route, Link } from "react-router-dom";
 import Home from "./pages/Home";
 import CreateTask from "./pages/CreateTask";
 import EditTask from "./pages/EditTask";
+import Home from "./pages/Home.jsx";
 
 export default function App() {
   return (
